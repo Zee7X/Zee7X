@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/coder.gif" alt="Coder Animation" width="42%" />
+  <img src="./assets/coder.gif" alt="Coder Animation" width="38%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/letscode.gif" alt="Let's Code Animation" width="38%" />
+  <img src="./assets/letscode.gif" alt="Let's Code Animation" width="25%" />
 </p>
