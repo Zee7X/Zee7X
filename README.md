@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Architect • Engineer • Automate • Optimize
+  <code>function life() { eat(); code(); sleep(); repeat(); }</code>
 </p>
 
 <p align="center">
@@ -17,3 +17,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/coder.gif" alt="Coder Animation" width="42%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/letscode.gif" alt="Let's Code Animation" width="38%" />
+</p>
