@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <code>function life() { eat(); code(); sleep(); repeat(); }</code>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,dart,react,nextjs,supabase,firebase,git" />
 </p>
 
