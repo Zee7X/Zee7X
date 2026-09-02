@@ -11,6 +11,20 @@
 </p>
 
 <p align="center">
+  <sub>NOW_PLAYING // SYSTEM_AUDIO: ACTIVE</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MAWFhoqbHWA">
+    <img
+      src="https://img.youtube.com/vi/MAWFhoqbHWA/maxresdefault.jpg"
+      width="420"
+      alt="Now Playing"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://rizick-portfolio.vercel.app/">Portfolio</a>
   ·
   <a href="https://github.com/Zee7X">GitHub</a>
